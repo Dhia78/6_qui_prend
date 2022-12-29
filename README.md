@@ -1,5 +1,3 @@
-# 6_qui_prend
-
 # 6-qui-prend
 Jeu de cartes programmé en Java.
 
